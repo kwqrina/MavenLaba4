@@ -1,0 +1,15 @@
+gui\ComponentView.class
+gui\WandView.class
+main\Controller.class
+database\WandDB.class
+gui\SupplyView.class
+main\Main.class
+database\SupplyDB.class
+database\DatabaseConnector.class
+gui\MainView.class
+gui\ViewInterface.class
+gui\View$1.class
+gui\CustomerView.class
+gui\View.class
+database\CustomerDB.class
+database\ComponentDB.class
